@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 fgfg fgfgf fg
 
 ;l;l;l;
@@ -9,3 +11,9 @@ iljkl
 =======
 fgfg fgfgf fg
 >>>>>>> parent of e0ade31... Revert "fgfg"
+=======
+fgfg fgfgf fg
+>>>>>>> parent of eacb847... 2
+=======
+fgfg fgfgf fg
+>>>>>>> parent of eacb847... 2
