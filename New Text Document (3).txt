@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fgfg fgfgf fg
 
 ;l;l;l;
@@ -5,3 +6,6 @@ fgfg fgfgf fg
 uyiyiy
 
 iljkl
+=======
+fgfg fgfgf fg
+>>>>>>> parent of e0ade31... Revert "fgfg"
